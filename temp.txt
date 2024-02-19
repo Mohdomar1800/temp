@@ -1,0 +1,467 @@
+Sl.No	Class Group	Course	L T P J C	Category	Course Option	Class Nbr	Slot -
+Venue	Faculty Details	Registered / Updated Date & Time	Attendance Date - Type	Status & Ref No
+1
+
+UG Seniors
+
+CBS1002 - Object Oriented Programming
+
+( Embedded Theory )
+
+3 0 0 0 3.0
+
+University Core	
+Regular
+
+VL2023240503576
+
+G2+TG2 -
+
+
+PRPG06
+
+RENITA R -
+
+
+SCOPE
+
+12-Dec-2023 13:54
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+2
+
+UG Seniors
+
+CBS1002 - Object Oriented Programming
+
+( Embedded Lab )
+
+0 0 2 0 1.0
+
+University Core	
+Regular
+
+VL2023240506417
+
+L27+L28 -
+
+
+TT247A
+
+RENITA R -
+
+
+SCOPE
+
+12-Dec-2023 13:54
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+3
+
+UG Seniors
+
+CBS1003 - Data Structures and Algorithms
+
+( Embedded Theory )
+
+2 0 0 0 2.0
+
+Programme Core	
+Regular
+
+VL2023240503598
+
+D2 -
+
+
+PRP123
+
+BALAJI N -
+
+
+SCOPE
+
+12-Dec-2023 13:46
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+4
+
+UG Seniors
+
+CBS1003 - Data Structures and Algorithms
+
+( Embedded Lab )
+
+0 0 2 0 1.0
+
+Programme Core	
+Regular
+
+VL2023240506401
+
+L11+L12 -
+
+
+TT247A
+
+BALAJI N -
+
+
+SCOPE
+
+12-Dec-2023 13:46
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+5
+
+UG Seniors
+
+CBS1004 - Computer Architecture and Organization
+
+( Embedded Theory )
+
+2 0 0 0 2.0
+
+Programme Core	
+Regular
+
+VL2023240503603
+
+F2 -
+
+
+PRPG06
+
+DILIPKUMAR S -
+
+
+SCOPE
+
+12-Dec-2023 13:49
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+6
+
+UG Seniors
+
+CBS1004 - Computer Architecture and Organization
+
+( Embedded Lab )
+
+0 0 2 0 1.0
+
+Programme Core	
+Regular
+
+VL2023240506357
+
+L13+L14 -
+
+
+TT318
+
+DILIPKUMAR S -
+
+
+SCOPE
+
+12-Dec-2023 13:49
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+7
+
+UG Seniors
+
+CBS1011 - Programming in Python
+
+( Embedded Theory )
+
+2 0 0 0 2.0
+
+Programme Elective	
+Regular
+
+VL2023240503608
+
+A2 -
+
+
+PRPG08
+
+ANNY LEEMA A -
+
+
+SCOPE
+
+12-Dec-2023 13:52
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+8
+
+UG Seniors
+
+CBS1011 - Programming in Python
+
+( Embedded Lab )
+
+0 0 2 0 1.0
+
+Programme Elective	
+Regular
+
+VL2023240506356
+
+L7+L8 -
+
+
+SJT517
+
+ANNY LEEMA A -
+
+
+SCOPE
+
+12-Dec-2023 13:52
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+9
+
+UG Seniors
+
+ENG1014 - Business Communication and Value Science - II
+
+( Embedded Theory )
+
+1 0 0 0 1.0
+
+University Core	
+Regular
+
+VL2023240506407
+
+TB2 -
+
+
+SJT626
+
+SHEEJA RAJAGOPAL -
+
+
+SSL
+
+12-Dec-2023 13:57
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+10
+
+UG Seniors
+
+ENG1014 - Business Communication and Value Science - II
+
+( Embedded Lab )
+
+0 0 2 0 1.0
+
+University Core	
+Regular
+
+VL2023240506410
+
+L21+L22 -
+
+
+SJT701
+
+SHEEJA RAJAGOPAL -
+
+
+SSL
+
+12-Dec-2023 13:57
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+11
+
+UG Seniors
+
+MAT2004 - Linear Algebra
+
+( Theory Only )
+
+3 1 0 0 4.0
+
+Programme Core	
+Regular
+
+VL2023240503814
+
+C2+TC2+TCC2 -
+
+
+PRPG08
+
+PURUSOTHAM S -
+
+
+SAS
+
+12-Dec-2023 13:40
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+12
+
+UG Seniors
+
+MAT2005 - Data Science and Statistical Modelling
+
+( Embedded Theory )
+
+2 0 0 0 2.0
+
+Programme Core	
+Regular
+
+VL2023240503866
+
+B2 -
+
+
+PRPG08
+
+YOGIRAJ MANTRI -
+
+
+SAS
+
+12-Dec-2023 13:43
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+13
+
+UG Seniors
+
+MAT2005 - Data Science and Statistical Modelling
+
+( Embedded Lab )
+
+0 0 2 0 1.0
+
+Programme Core	
+Regular
+
+VL2023240503877
+
+L5+L6 -
+
+
+PRP119
+
+YOGIRAJ MANTRI -
+
+
+SAS
+
+12-Dec-2023 13:43
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+14
+
+UG Seniors
+
+PHY1005 - Modern Physics
+
+( Embedded Theory )
+
+3 0 0 0 3.0
+
+University Core	
+Regular
+
+VL2023240501984
+
+E2+TE2 -
+
+
+PRP126
+
+SANGEM RAJESH -
+
+
+SAS
+
+12-Dec-2023 13:59
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
+15
+
+UG Seniors
+
+PHY1005 - Modern Physics
+
+( Embedded Lab )
+
+0 0 2 0 1.0
+
+University Core	
+Regular
+
+VL2023240501993
+
+L23+L24 -
+
+
+TT436
+
+SANGEM RAJESH -
+
+
+SAS
+
+12-Dec-2023 13:59
+
+13-Dec-2023
+- Manual
+
+Registered and Approved
